@@ -3,7 +3,7 @@
 * This file (HttpStatus.php) is part of the UtilBundle project.
 *
 * 2014 (c) jjbier@gamilc.om.  
-* Created by Javier Fernández Rodríguez <jjbier@gmail.com>
+* Created by Xabier Fernández Rodríguez <jjbier@gmail.com>
 * Date: 24/02/14 - 10:22
 *  
 * For the full copyright and license information, please view the LICENSE
